@@ -1,0 +1,26 @@
+body{ 
+    text-align: center; 
+}
+h1{ 
+    color: blue;
+}
+
+h2{ 
+    color: rgb(255, 255, 255);
+}
+ 
+#Pizza{ 
+   
+    
+    background-color: aqua;
+}
+#Biryani{ 
+  
+  
+    
+  background-color: chartreuse;
+}
+ 
+#Fried{ 
+    background-color: tomato;
+} 
